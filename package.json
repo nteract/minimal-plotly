@@ -1,0 +1,29 @@
+{
+  "name": "@nteract/plotly",
+  "version": "0.0.0",
+  "description": "A minimal version of the plotly.js library",
+  "main": "plotly.min.js",
+  "scripts": {
+    "test": "node ./test.js",
+    "build": "shx cp node_modules/plotly.js/dist/plotly.min.js .",
+    "prepublish": "npm run test && npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nteract/minimal-plotly.git"
+  },
+  "keywords": [
+    "plotly",
+    "dist"
+  ],
+  "author": "Lukas Geiger",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/nteract/minimal-plotly/issues"
+  },
+  "homepage": "https://github.com/nteract/minimal-plotly#readme",
+  "devDependencies": {
+    "plotly.js": "^1.25.2",
+    "shelljs": "^0.7.7"
+  }
+}

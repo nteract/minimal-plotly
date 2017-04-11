@@ -1,6 +1,3 @@
-# Ignore dist file
-plotly.min.js
-
 # Logs
 logs
 *.log
