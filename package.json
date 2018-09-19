@@ -29,6 +29,6 @@
   "devDependencies": {
     "plotly.js": "^1.41.1",
     "semantic-release": "^15.9.15",
-    "shx": "^0.2.2"
+    "shx": "^0.3.2"
   }
 }
