@@ -2,19 +2,7 @@ language: node_js
 notifications:
   email: false
 node_js:
-  - '6'
+  - '10'
 script:
   - npm run build
   - npm test
-
-deploy:
-  - provider: script
-    skip_cleanup: true
-    script: npm run semantic-release
-    on:
-      branch: master
-      tags: false
-
-branches:
-  except:
-    - /^v\d+\.\d+\.\d+$/
