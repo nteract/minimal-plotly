@@ -1,13 +1,12 @@
 {
   "name": "@nteract/plotly",
-  "version": "1.24.0-development",
+  "version": "1.0.0",
   "description": "A minimal version of the plotly.js library",
   "main": "plotly.min.js",
   "scripts": {
     "test": "node ./test.js",
     "build": "shx cp node_modules/plotly.js/dist/plotly.min.js .",
-    "prepublish": "npm run build && npm run test",
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+    "prepublish": "npm run build && npm run test"
   },
   "publishConfig": {
     "access": "public"
@@ -27,8 +26,7 @@
   },
   "homepage": "https://github.com/nteract/minimal-plotly#readme",
   "devDependencies": {
-    "plotly.js": "^1.41.1",
-    "semantic-release": "^15.9.15",
+    "plotly.js": "1.42.5",
     "shx": "^0.3.2"
   }
 }
