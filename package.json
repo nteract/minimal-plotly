@@ -1,6 +1,6 @@
 {
   "name": "@nteract/plotly",
-  "version": "1.44.0",
+  "version": "1.47.1",
   "description": "A minimal version of the plotly.js library",
   "main": "plotly.min.js",
   "scripts": {
