@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/nteract/minimal-plotly#readme",
   "devDependencies": {
-    "plotly.js": "1.47.4",
+    "plotly.js": "1.48.0",
     "shx": "0.3.2"
   }
 }
