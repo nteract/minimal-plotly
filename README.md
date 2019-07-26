@@ -27,3 +27,8 @@ Plotly.plot(
   }
 );
 ```
+## Plotly Library
+
+- Documentation for the plotly.js library: https://plot.ly/javascript/
+- Source code for the plotly.js library: https://github.com/plotly/plotly.js
+- Release notes for the plotly.js library: https://github.com/plotly/plotly.js/releases
