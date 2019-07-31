@@ -2,6 +2,8 @@
 
 A minified version of the [plotly](https://plot.ly/javascript/) library.
 
+nteract plotly release version on npm: 1.48.3 published June 2019
+
 ## Installation
 
 ```bash
