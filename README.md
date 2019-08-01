@@ -1,6 +1,6 @@
 # @nteract/plotly
 
-![npm (scoped)](https://img.shields.io/npm/v/@nteract/plotly)
+[![npm (scoped)](https://img.shields.io/npm/v/@nteract/plotly)](https://www.npmjs.com/package/@nteract/plotly)
 
 A minified version of the [plotly](https://plot.ly/javascript/) library.
 
