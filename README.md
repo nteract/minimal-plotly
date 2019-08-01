@@ -11,7 +11,7 @@ A minified version of the [plotly](https://plot.ly/javascript/) library.
 npm install @nteract/plotly
 ```
 
-## Example
+## Usage Example
 
 ```javascript
 const Plotly = require("@nteract/plotly");
@@ -30,6 +30,7 @@ Plotly.plot(
   }
 );
 ```
+
 ## Plotly Library
 
 - Documentation for the plotly.js library: https://plot.ly/javascript/
