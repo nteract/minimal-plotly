@@ -1,6 +1,7 @@
 # @nteract/plotly
 
 [![npm (scoped)](https://img.shields.io/npm/v/@nteract/plotly)](https://www.npmjs.com/package/@nteract/plotly)
+[![Build Status](https://travis-ci.org/nteract/minimal-plotly.svg?branch=master)](https://travis-ci.org/nteract/minimal-plotly)
 
 A minified version of the [plotly](https://plot.ly/javascript/) library.
 
