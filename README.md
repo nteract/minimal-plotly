@@ -1,8 +1,8 @@
 # @nteract/plotly
 
-A minified version of the [plotly](https://plot.ly/javascript/) library.
+![npm (scoped)](https://img.shields.io/npm/v/@nteract/plotly)
 
-nteract plotly release version on npm: 1.48.3 published June 2019
+A minified version of the [plotly](https://plot.ly/javascript/) library.
 
 ## Installation
 
