@@ -12,5 +12,6 @@ renovate bot should notify when a new version is available.
 4. Alternatively, you could run `npm run prepublish` instead of steps 3 and 4.
 5. Submit and merge a PR with the changes.
 6. Add a git tag and GitHub release with the new version number.
-7. Publish to npm: `npm publish`
-8. Update the `README.md` npm badge to latest version.
+7. Verify that you are logged into npm: `npm whoami`. If not, `npm adduser`.
+8. Publish to npm: `npm publish`
+9. Update the `README.md` npm badge to latest version.
