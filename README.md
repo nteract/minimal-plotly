@@ -1,3 +1,5 @@
+# Note: This package is now deprecated. nteract's plotly-transform now uses the official minifed distribution produced by Plotly instead of this package. If you were previously depending on this package, we recommend checking out Plotly's [minified release](https://www.npmjs.com/package/plotly.js-dist).
+
 # @nteract/plotly
 
 [![npm (scoped)](https://img.shields.io/npm/v/@nteract/plotly)](https://www.npmjs.com/package/@nteract/plotly)
